@@ -1,0 +1,19 @@
+* {
+    /* border: 2px solid red */
+}
+
+.header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header .right-links {
+    font-size: 14px;
+    list-style: none;
+    display: flex;
+    
+}
